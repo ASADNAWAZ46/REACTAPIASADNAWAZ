@@ -51,7 +51,7 @@ const LandingPage = () => {
         <div className="container">
         <div className="row align-items-center">
         <div className ="col-lg-5 text-center">
-        <img src="http://www.nespak.com.pk/img/mainpage/nespak7.jpg" className="img-fluid sale-img" style={{marginBottom:"30px"}}></img>
+        <img src="https://i.pinimg.com/originals/40/39/fb/4039fb0e4b6a131a3f8548d340d0e629.jpg" className="img-fluid sale-img" style={{marginBottom:"30px"}}></img>
         </div>
         <div className="col-lg-7 text-lg-right text-center text-color about-text">
         <h1>Fisrt come first served basis</h1>
@@ -67,7 +67,7 @@ The Total estimated turnover for the year 2020 was Rs. 8 Million with the total 
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="http://www.nespak.com.pk/img/mainpage/latest/Aridah.jpg"
+      src="https://www.constructiontuts.com/wp-content/uploads/2020/01/12-Biggest-Construction-Companies-in-the-World.jpg"
       alt="First slide"
     />
     <Carousel.Caption>
@@ -78,7 +78,7 @@ The Total estimated turnover for the year 2020 was Rs. 8 Million with the total 
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="http://www.nespak.com.pk/img/mainpage/latest/BachaKhan.jpg"
+      src="https://lh3.googleusercontent.com/proxy/xM4IGAw91v21Ne_gmgev1a-dznVP8WmA_KSVXWlwQMFBv6qmo3IgNCBVIqAkGnrZN0LWHHiHCtQ__m4FfmMmj0_U8m2qjta1RLy4M4OSZI4dnWSQXQ"
       alt="Third slide"
     />
 
@@ -90,7 +90,7 @@ The Total estimated turnover for the year 2020 was Rs. 8 Million with the total 
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="http://www.nespak.com.pk/img/mainpage/latest/Bhikki.jpg"
+      src="https://zameenblog.s3.amazonaws.com/blog/wp-content/uploads/2019/10/cover-image-1-1.jpg"
       alt="Third slide"
     />
 
