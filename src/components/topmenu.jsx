@@ -17,7 +17,7 @@ const TopMenu = () => {
     
     ////////////
     <Navbar bg="light" variant="primary">
-    <Navbar.Brand className={classes.Name} href="/" style={{color:"blue"}}><img src="http://www.nespak.com.pk/img/mainpage/logo-34.jpg"></img></Navbar.Brand>
+    <Navbar.Brand className={classes.Name} href="/" style={{color:"blue"}}>AL-Ghani Construction Company</Navbar.Brand>
     <Nav className="ml-auto">
       <Nav.Link href="/">Home</Nav.Link>
       <Nav.Link href="/products">Services</Nav.Link>
